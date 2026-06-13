@@ -1,9 +1,8 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://raw.githubusercontent.com/your-username/your-repo/main/assets/your-banner.gif)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&center=true&vCenter=true&width=1700&height=180&duration=4000&lines=Hey+there+👋;I'm+Juan+Andrew+Djajadi;Computer+Science+Student+🎓;Systems+%26+Cloud+Engineer+☁️;Machine+Learning+Enthusiast+🤖;Building+Scalable+Solutions+🚀"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&center=true&vCenter=true&width=850&height=90&duration=4000&lines=Hey+there+👋;I'm+Juan+Andrew+Djajadi;Computer+Science+Student+🎓;Systems+%26+Cloud+Engineer+☁️;Machine+Learning+Enthusiast+🤖;Building+Scalable+Solutions+🚀"/>
 </h1>
-
 <br><br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JuanAndrewD&label=Profile%20views&color=0e75b6&style=flat" alt="JuanAndrewD" />
