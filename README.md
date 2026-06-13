@@ -1,6 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hey+there+👋;I'm+Juan+Andrew+Djajadi;Computer+Science+Student+🎓;Systems+%26+Cloud+Engineer+☁️;Machine+Learning+Enthusiast+🤖;Building+Scalable+Solutions+🚀"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&center=true&vCenter=true&width=850&height=90&duration=4000&lines=HELLO+WORLD!+👋;JUAN+ANDREW+DJAJADI;SYSTEMS+%26+CLOUD+ENGINEER;MACHINE+LEARNING+DEV+🤖;QUANTITATIVE+AI+EXPLORER;BUILDING+THE+FUTURE...+🚀"/>
 </h1>
 
 <br><br>
