@@ -1,8 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/JuanAndrewD/JuanAndrewD/main/Juan-Andrew-Djajadi-Header-Animated.gif)
 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&center=true&vCenter=true&width=850&height=90&duration=4000&lines=Hey+there+👋;I'm+Juan+Andrew+Djajadi;Computer+Science+Student+🎓;Systems+%26+Cloud+Engineer+☁️;Machine+Learning+Enthusiast+🤖;Building+Scalable+Solutions+🚀"/>
-</h1>
+</div>
 
 ---
 
