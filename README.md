@@ -1,4 +1,4 @@
-![MasterHead]("Juan Andrew Djajadi Header.png")
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hey+there+👋;I'm+Juan+Andrew+Djajadi;Computer+Science+Student+🎓;Systems+%26+Cloud+Engineer+☁️;Machine+Learning+Enthusiast+🤖;Building+Scalable+Solutions+🚀"/>
 </h1>
@@ -35,7 +35,8 @@
 <a href="https://github.com/JuanAndrewD"><img alt="JuanAndrewD's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=JuanAndrewD&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="32%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="32%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="32%" />
+</p>
