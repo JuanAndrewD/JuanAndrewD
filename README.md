@@ -5,9 +5,6 @@
 </h1>
 
 <br><br>
-
-<img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JuanAndrewD&label=Profile%20views&color=0e75b6&style=flat" alt="JuanAndrewD" />
 </p>
