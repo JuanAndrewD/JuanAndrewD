@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/JuanAndrewD/JuanAndrewD/main/Juan-Andrew-Djajadi-Header-Animated.gif)
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&center=true&vCenter=true&width=900&height=55&duration=4000&lines=Hey+there+👋;I'm+Juan+Andrew+Djajadi;Computer+Science+Student+🎓;Systems+%26+Cloud+Engineer+☁️;Machine+Learning+Enthusiast+🤖;Building+Scalable+Solutions+🚀"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=40&center=true&vCenter=true&width=900&height=55&duration=4000&lines=Hey+there+👋;I'm+Juan+Andrew+Djajadi;Computer+Science+Student+🎓;Systems+%26+Cloud+Engineer+☁️;Machine+Learning+Enthusiast+🤖;Building+Scalable+Solutions+🚀"/>
 </div>
 
 ---
