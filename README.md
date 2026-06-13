@@ -1,6 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead]("Juan Andrew Djajadi Header.png")
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&Center=true&width=600&height=70&duration=4000&lines=Hey+there+👋;I'm+Juan+Andrew+Djajadi;I'm+a+Developer+🧑�‍💻;I'm+a+Software+Engineer+👷🏻‍♂️;Cloud+%26+ML+Enthusiast+☁️🤖;A+Full+Time+Learner+🤓;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hey+there+👋;I'm+Juan+Andrew+Djajadi;Computer+Science+Student+🎓;Systems+%26+Cloud+Engineer+☁️;Machine+Learning+Enthusiast+🤖;Building+Scalable+Solutions+🚀"/>
 </h1>
 
 <br><br>
@@ -12,7 +12,7 @@
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanandrewdjajadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-andrew-djajadi)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32831570)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanandrewdj@gmail.com)
 
@@ -35,7 +35,7 @@
 <a href="https://github.com/JuanAndrewD"><img alt="JuanAndrewD's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=JuanAndrewD&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 ---
-[![](https://komarev.com/ghpvc/?username=JuanAndrewD&icon=0&color=0)](https://visitcount.itsvg.in)
