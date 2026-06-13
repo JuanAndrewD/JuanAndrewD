@@ -34,8 +34,4 @@
 <a href="https://github.com/JuanAndrewD"><img alt="JuanAndrewD's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=JuanAndrewD&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" /></a>
 
 ### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="32%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="32%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="32%" />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
